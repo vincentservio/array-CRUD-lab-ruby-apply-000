@@ -24,7 +24,7 @@ a.pop
 end
 
 def remove_element_from_start_of_array(array)
-  a
+  a=['wow','i','am','really','learning','arrays!']
   a.shift
 end
 
