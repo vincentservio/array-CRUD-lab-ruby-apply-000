@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
    a = [1, 2, 3, 4]
-  a.length << 5
+  a<< 5
   
 
 end
