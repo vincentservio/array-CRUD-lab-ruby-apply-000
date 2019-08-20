@@ -24,6 +24,7 @@ a.pop
 end
 
 def remove_element_from_start_of_array(array)
+  a
   a.shift
 end
 
