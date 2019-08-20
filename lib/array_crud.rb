@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
    a = ['1',' 2', '3', '4']
- => ('5')
+  array >> element
 
 end
 
