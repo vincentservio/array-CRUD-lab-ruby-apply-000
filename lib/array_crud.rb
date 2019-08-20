@@ -29,7 +29,13 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+ a=['wow','i','am','really','learning','arrays!']
+ 'wow'= 0
+ 'i'=1
+ 'am'=2
+ 'really'=3
+ 'learning'=4
+ 'arrays'=5
 end
 
 def retrieve_first_element_from_array(array)
