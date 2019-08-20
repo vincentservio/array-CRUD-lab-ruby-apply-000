@@ -35,7 +35,7 @@ end
 
 def retrieve_first_element_from_array(array)
   a=['wow','i','am','really','learning','arrays!']
-  puts a=[0]
+  a[0]
 end
 
 def retrieve_last_element_from_array(array)
