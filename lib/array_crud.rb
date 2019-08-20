@@ -19,7 +19,8 @@ a.unshift 'wow'
 end
 
 def remove_element_from_end_of_array(array)
-  
+  a= ['I','am','really','learning','arrays!' ]
+  a.pop 'arrays!'
 end
 
 def remove_element_from_start_of_array(array)
